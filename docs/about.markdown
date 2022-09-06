@@ -13,3 +13,6 @@ You can find my CV here:
 
 You can find my GitHub profile here:
 [ka-tim](https://github.com/ka-tim)
+
+Interests:
+Bridge (card game), home automation, reading
